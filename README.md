@@ -19,7 +19,7 @@ After installing the dependencies, you can use this application by following the
 * You will be presented with a list of options to choose from. Select one of the options to proceed.
 
 ## Walkthrough Video
-To see how this application works, please refer to the walkthrough video [here](insert your link here). This video demonstrates how the application functions and meets all the acceptance criteria mentioned below.
+To see how this application works, please refer to the walkthrough video [here](insert your link here). This video demonstrates how the application functions and meets all the acceptance criteria.
 
 ## User Story
 As a business owner, I want to be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business.
